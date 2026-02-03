@@ -1,4 +1,17 @@
-﻿![](https://javascript30.com/images/JS3-social-share.png)
+# JavaScript30 - Learning Log
+このリポジトリは、自分の学習記録用にフォークしたものです。
+作成者のwes Bosさんや携わった方に感謝。
+
+Original course:
+https://github.com/wesbos/JavaScript30
+
+ ## 記録ログ
+2026.02.03 初めてフォークしたよ
+ 
+以下、原文（Below is the original README from the forked repository.）
+ ----
+ 
+ ![](https://javascript30.com/images/JS3-social-share.png)
 
 # JavaScript30
 
